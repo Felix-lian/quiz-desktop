@@ -1,5 +1,5 @@
 {
-  "version": "1.12",
-  "url": "https://github.com/Felix-lian/quiz-desktop/releases/download/v1.12/app-release.apk",
-  "message": "发现新版本 1.12：新增手动检查更新和失败原因提示"
+  "version": "1.13",
+  "url": "https://github.com/Felix-lian/quiz-desktop/releases/latest/download/app-release.apk",
+  "message": "发现新版本 1.13：答题控制、模拟考试和直达最新版更新"
 }
